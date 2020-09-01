@@ -1,3 +1,8 @@
+#Hector Reyes
+#CS 4375 Theory of Operating Systems
+#Freudenthal/Pruitt
+
+
 import sys
 import re
 
